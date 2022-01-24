@@ -1,5 +1,4 @@
 
-   
 import React from 'react'
 
 
@@ -17,5 +16,5 @@ const Num = (props) => {
     )
 }
 
-export default Num 
+export  {Num} 
 
